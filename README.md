@@ -8,8 +8,7 @@ Download and install Python 3.8+ from python.org
 
 Step 2 — Clone the Repository
 
-git clone https://github.com/Ansh-Vortex/Vortex-Advance-RAT.git
-cd Vortex-Advance-RAT
+
 
 Step 3 — Install Dependencies
 
